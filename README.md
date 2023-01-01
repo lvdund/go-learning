@@ -92,7 +92,7 @@
         panic("this is error")
 ```
 ## Pointer
-### Con trỏ: & *
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Con trỏ: & *
 
 ## Function
 ```php
@@ -135,7 +135,10 @@
 5. **Prototype** - Cho phép bạn sao chép các đối tượng hiện có mà không làm cho mã của bạn phụ thuộc vào các lớp của chúng.
 * Link tham khảo [tại đây](https://refactoring.guru/design-patterns/go)
 
-## Encapsulation --> Packages
-## Inheritance --> Composition
-## Polymorphism --> Interfaces
-## Abstraction ---> Embedding
+## Important
+* Encapsulation --> Packages
+* Inheritance --> Composition
+* Polymorphism --> Interfaces
+* Abstraction ---> Embedding
+
+## Tham khảo [Youtube](https://www.youtube.com/playlist?list=PLw-L1SGSvTEco7QvKTEd39wrMoTCPNUuN)
